@@ -1,0 +1,10 @@
+D:\DiscordBots\TestBot1\TestBot1\bin\Debug\TestBot1.exe.config
+D:\DiscordBots\TestBot1\TestBot1\bin\Debug\TestBot1.exe
+D:\DiscordBots\TestBot1\TestBot1\bin\Debug\TestBot1.pdb
+D:\DiscordBots\TestBot1\TestBot1\obj\Debug\TestBot1.csprojAssemblyReference.cache
+D:\DiscordBots\TestBot1\TestBot1\obj\Debug\TestBot1.csproj.CoreCompileInputs.cache
+D:\DiscordBots\TestBot1\TestBot1\obj\Debug\TestBot1.exe
+D:\DiscordBots\TestBot1\TestBot1\obj\Debug\TestBot1.pdb
+D:\DiscordBots\TestBot1\TestBot1\bin\Debug\Newtonsoft.Json.dll
+D:\DiscordBots\TestBot1\TestBot1\bin\Debug\Newtonsoft.Json.xml
+D:\DiscordBots\TestBot1\TestBot1\obj\Debug\TestBot1.csproj.CopyComplete
